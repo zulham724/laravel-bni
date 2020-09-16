@@ -1,0 +1,17 @@
+{
+    "name": "zulham724/laravel-bni",
+    "description": "API BNI WRAPPER FOR LARAVEL",
+    "type": "project",
+    "license": "MIT",
+    "authors": [{
+        "name": "Zulham Azwar Achmad",
+        "email": "zulham724@students.unnes.ac.id"
+    }],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Zulham724\\LaravelBNI\\": "src/"
+        }
+    },
+    "require": {}
+}
